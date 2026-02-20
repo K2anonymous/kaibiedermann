@@ -30,27 +30,21 @@ I'm especially interested in enterprise IT infrastructure, operational reliabili
 
 ## 🚀 Featured Projects
 
-### 🤖 [RoboHand](https://github.com/k2anonymous/robohand)
-Embedded systems integration project building a robotic prosthetic hand with Arduino microcontrollers. Designing custom CAD components in Fusion 360 to improve hardware-software interoperability and system reliability.  
-`Arduino` `Fusion 360` `CAD` `Embedded Systems`
-
----
-
-### 🥽 [Dance Dance Labanotation](https://github.com/k2anonymous/dance-dance-labanotation)
+### 🥽 [Dance Dance Labanotation](https://github.com/K2anonymous/DanceDanceLabanotation)
 VR training tool built for the FSU College of Dance to help dancers learn Labanotation. Programmed spatial hitbox systems and integrated an enterprise Gemini Pro workflow to auto-generate hitbox arrays calibrated to each dancer's arm length.  
 `Unity` `C#` `VR` `Gemini Pro` `AI Workflow`
 
 ---
 
-### 🕷️ [Spider Sol — DevLUp GameJam](https://github.com/k2anonymous/spider-sol)
+### 🕷️ [Spider Sol — DevLUp GameJam](https://github.com/K2anonymous/SpiderSol/tree/main)
 48-hour game jam at FSU Innovation Hub. Implemented trap mechanics and enemy behavior in Unity; created visual effects in After Effects. Built and shipped a complete game from scratch in a single weekend.  
 `Unity` `C#` `After Effects` `VFX` `Game Design`
 
 ---
 
-### 🖨️ [FabLab Systems Support](https://github.com/k2anonymous/fablab-systems)
-Technical troubleshooting and systems maintenance across a fleet of 3D printers and laser cutters at FSU's Innovation Hub. Diagnosing firmware misconfigurations, slicer file errors, calibration drift, and material-specific failures. Developed repeatable resolution workflows to minimize downtime under heavy student load.  
-`IT Support` `3D Printing` `Laser Cutting` `Hardware Troubleshooting`
+### 🤖 [RoboHand](https://github.com/k2anonymous/robohand)
+Embedded systems integration project building a robotic prosthetic hand with Arduino microcontrollers. Designing custom CAD components in Fusion 360 to improve hardware-software interoperability and system reliability.  
+`Arduino` `Fusion 360` `CAD` `Embedded Systems`
 
 ---
 
