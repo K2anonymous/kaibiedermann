@@ -59,9 +59,9 @@ Embedded systems integration project building a robotic prosthetic hand with Ard
 
 ## 📫 Let's Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-k2anonymous-0077B5?style=flat&logo=linkedin)](https://linkedin.com/in/k2anonymous)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-kaibiedermann-0077B5?style=flat&logo=linkedin)](https://linkedin.com/in/kaibiedermann)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Site-00e5ff?style=flat)](https://k2anonymous.github.io)
-[![Email](https://img.shields.io/badge/Email-kb22e%40fsu.edu-D14836?style=flat&logo=gmail)](mailto:kb22e@fsu.edu)
+[![Email](https://img.shields.io/badge/Email-kb22e%40fsu.edu-D14836?style=flat&logo=gmail)](mailto:kaibiedermann@me.com)
 
 ---
 
